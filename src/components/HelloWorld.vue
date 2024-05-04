@@ -1,6 +1,7 @@
 <template>
   <div class="hello">
     <h1>URL Validation</h1>
+    <h2>Changes Made by collabrator</h2>
     <h1>{{ msg }}</h1>
     <p>
       For a guide and recipes on how to configure / customize this project,<br>
@@ -33,7 +34,7 @@
 
 <script>
 export default {
-  name: 'HelloWorld',
+  name: 'Hello Selvi, Changes made',
   props: {
     msg: String
   }
